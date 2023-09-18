@@ -1,0 +1,26 @@
+
+body {
+background: linear-gradient(#54c6d0,#797677 );
+background-repeat: no-repeat;
+background-position: center; 
+background-size: cover;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: center;
+    justify-content: space-around;
+    border-radius: 3px;
+
+}
+
+.card {
+    background-color: rgba(87, 82, 82, 0.153);
+    width: 400px;
+    height: 400px;
+    border-radius: 12px;
+    box-shadow: 5px 5px 16px #101010aa;
+    align-items: center;
+    flex-direction: column;
+}
